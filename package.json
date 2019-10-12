@@ -1,6 +1,6 @@
 {
   "name": "paji-cli",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "a cli for vue-template",
   "bin": {
     "PajiCli": "./bin/PajiCli.js"
